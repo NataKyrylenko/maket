@@ -1,0 +1,11 @@
+* {
+  background-color: black;
+  color: white;
+}
+.icon__block {
+  display: inline-block;
+  text-align: center;
+  width: 358px;
+  margin: 106px 30px 108px 20px;
+  padding: 10px 0;
+}
